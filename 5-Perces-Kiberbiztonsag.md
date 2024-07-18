@@ -3,7 +3,7 @@
 > Tedd biztonságosabbá személyes készülékeidet és csökkentsd digitális lábnyomodat **5 perc alatt**!
 
 Oszd meg barátaiddal!
-<img src="https://github.com/resistec/github-qrcode-5perceskiberbiztonsag.png"/>
+<img src="(https://github.com/resistec/5-perces-kiberbiztonsag/blob/main/github-qrcode-5perceskiberbiztonsag.png"/>
 
 ## Kinek fontos?
 
